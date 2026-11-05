@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "nombre":"Comida",
+        "precio":222,
+        "stock":123
+    },
+    {
+        "id":2,
+        "nombre":"Sanduches",
+        "precio":22,
+        "stock":13
+    },
+    {
+        "id":3,
+        "nombre":"Pizza",
+        "precio":28,
+        "stock":23
+    }
+]
